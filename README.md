@@ -1,4 +1,4 @@
-# 🚀 Merhaba, ben <kullanıcı_adın>
+# 🚀 Merhaba, ben Mustiskooo! namı diğer muffixx
 
 💻 Yazılım ile uğraşıyorum, özellikle:
 - 🐧 Linux (Debian tabanlı sistemler, custom distro işleri 👀)
