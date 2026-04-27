@@ -1,16 +1,43 @@
-## Hi there 👋
+# 🚀 Merhaba, ben <kullanıcı_adın>
 
-<!--
-**Mustiskooo/Mustiskooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Yazılım ile uğraşıyorum, özellikle:
+- 🐧 Linux (Debian tabanlı sistemler, custom distro işleri 👀)
+- 🎨 UI/UX & sistem görünüm modlama
+- 🎮 Oyun + launcher projeleri
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Hakkımda
+- 🛠 Kendi işletim sistemimi yapmaya çalışıyorum (UranusOS 👽)
+- ⚙️ Düşük sistemlerde performanslı çözümler deniyorum
+- 📚 Sürekli yeni şeyler öğreniyorum (özellikle Linux & sistem tarafı)
+
+---
+
+## 🔧 Kullandığım Teknolojiler
+- 🐧 Linux / Debian
+- 💻 Windows tweaking (PowerToys vs.)
+- ☕ Java / App geliştirme
+- ⚡ Git & GitHub
+
+---
+
+## 📌 Şu an ne yapıyorum?
+- 🚧 Kendi Linux dağıtımım üzerinde çalışıyorum (Uranus OS is coming for u)  
+- 🎨 Sistem arayüzümü güzelleştirmeye uğraşıyorum  
+- 🎮 Küçük oyun & launcher projeleri geliştiriyorum  
+
+---
+
+## 📊 GitHub İstatistiklerim
+![Stats](https://github-readme-stats.vercel.app/api?username=<kullanıcı_adın>&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Bana ulaş
+- Discord: (istersen ekle)
+- GitHub: https://github.com/<kullanıcı_adın>
+
+---
+
+⭐ Profilime göz attığın için sağ ol!
