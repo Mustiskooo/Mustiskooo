@@ -30,7 +30,7 @@
 ---
 
 ## 📊 GitHub İstatistiklerim
-![Stats](https://github-readme-stats.vercel.app/api?username=<kullanıcı_adın>&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=mustiskooo&show_icons=true&theme=tokyonight)
 
 ---
 
