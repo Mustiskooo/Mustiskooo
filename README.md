@@ -5,7 +5,7 @@
 
 ## Discord Presence
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1397165111021539418)](https://discord.com/users/1397165111021539418)
+![Discord Presence](https://lanyard.cnrad.dev/api/1397165111021539418)
 
 💻 Yazılım ile uğraşıyorum, özellikle:
 - 🐧 Linux (Debian tabanlı sistemler, custom distro işleri 👀)
