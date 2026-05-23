@@ -1,5 +1,8 @@
 # 🚀 Merhaba, ben Mustiskooo! namı diğer muffixx
 
+
+![Linux](https://img.shields.io/badge/Linux-Debian-red?style=for-the-badge&logo=linux)
+
 💻 Yazılım ile uğraşıyorum, özellikle:
 - 🐧 Linux (Debian tabanlı sistemler, custom distro işleri 👀)
 - 🎨 UI/UX & sistem görünüm modlama
