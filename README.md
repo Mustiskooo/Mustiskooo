@@ -5,7 +5,7 @@
 
 ## Discord Presence
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/ID)](https://discord.com/)
+[![Discord Presence](https://lanyard.cnrad.dev/api/bnmuffix)](https://discord.com/)
 
 💻 Yazılım ile uğraşıyorum, özellikle:
 - 🐧 Linux (Debian tabanlı sistemler, custom distro işleri 👀)
