@@ -23,7 +23,7 @@
 ---
 
 ## 📌 Şu an ne yapıyorum?
-- 🚧 Kendi Linux dağıtımım üzerinde çalışıyorum (Uranus OS is coming for u)  
+- 🚧 Kendi Linux dağıtımım üzerinde çalışıyorum
 - 🎨 Sistem arayüzümü güzelleştirmeye uğraşıyorum  
 - 🎮 Küçük oyun & launcher projeleri geliştiriyorum  
 
@@ -35,8 +35,8 @@
 ---
 
 ## 📫 Bana ulaş
-- Discord: (istersen ekle)
-- GitHub: https://github.com/<kullanıcı_adın>
+- Discord: bnmuffix
+- GitHub: https://github.com/Mustiskooo
 
 ---
 
