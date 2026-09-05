@@ -1,6 +1,6 @@
 # 🚀 Merhaba, ben Muffixx! *_(sadece GitHub'da Mustiskooo'yum)_*
 
-![Linux](https://img.shields.io/badge/Linux-ARCH-blue?style=for-the-badge&logo=linux) ![Linux Kernel](https://img.shields.io/badge/Linux-Kernel-black?style=for-the-badge&logo=linux) ![VSCode](https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode) ![Intel](https://img.shields.io/badge/Intel-Iris%20Xe-0071C5?style=for-the-badge&logo=intel) ([![Hugging Face](https://img.shields.io/badge/Dataset-FFD21E?logo=huggingface&logoColor=000)](#))
+![Linux](https://img.shields.io/badge/Linux-ARCH-blue?style=for-the-badge&logo=linux) ![Linux Kernel](https://img.shields.io/badge/Linux-Kernel-black?style=for-the-badge&logo=linux) ![VSCode](https://img.shields.io/badge/Editor-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode) ![Intel](https://img.shields.io/badge/Intel-Iris%20Xe-0071C5?style=for-the-badge&logo=intel) [![Hugging Face](https://img.shields.io/badge/Dataset-FFD21E?logo=huggingface&logoColor=000)](#)
 
 ## Discord Presence
 
